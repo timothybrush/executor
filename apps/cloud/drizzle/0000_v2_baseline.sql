@@ -49,7 +49,7 @@ CREATE TABLE "definition" (
 	"integration" varchar(255) NOT NULL,
 	"connection" varchar(255) NOT NULL,
 	"plugin_id" text NOT NULL,
-	"name" varchar(255) NOT NULL,
+	"name" text NOT NULL,
 	"schema" json NOT NULL,
 	"created_at" timestamp NOT NULL,
 	"row_id" varchar(255) PRIMARY KEY NOT NULL,

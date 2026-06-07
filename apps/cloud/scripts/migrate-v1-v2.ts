@@ -807,7 +807,7 @@ const createV2Schema = async (sql: Pg): Promise<void> => {
       "integration" varchar(255) not null,
       "connection" varchar(255) not null,
       "plugin_id" text not null,
-      "name" varchar(255) not null,
+      "name" text not null,
       "schema" json not null,
       "created_at" timestamp not null,
       "row_id" varchar(255) primary key not null,
