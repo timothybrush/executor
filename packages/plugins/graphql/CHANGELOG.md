@@ -1,5 +1,15 @@
 # @executor-js/plugin-graphql
 
+## 2.0.0
+
+### Patch Changes
+
+- Updated dependencies [[`f485e4a`](https://github.com/RhysSullivan/executor/commit/f485e4a23cf3756b9e628cf2d9242fbc0b3da178)]:
+  - @executor-js/react@1.5.0
+  - @executor-js/sdk@2.0.0
+  - @executor-js/config@2.0.0
+  - @executor-js/api@1.4.26
+
 ## 1.5.3
 
 ### Patch Changes
