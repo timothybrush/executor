@@ -1,6 +1,6 @@
 ---
-"executor": minor
-"@executor-js/react": minor
+"executor": patch
+"@executor-js/react": patch
 ---
 
 **One auth model across OpenAPI, GraphQL, and MCP**
